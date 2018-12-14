@@ -1,3 +1,3 @@
 # Object-oriented programming training
 
-I build this little program to help me learn OOP.
+I build this little program to help me understand OOP and constructors a little better.
